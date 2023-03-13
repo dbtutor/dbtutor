@@ -1,4 +1,4 @@
-### Hi there 👋 from https://dbtutor.com , https://ml.dbtutor.com & https://pshome.dbtutor.com
+### Hi there 👋 from https://dbtutor.com , https://ml.dbtutor.com & https://ps.dbtutor.com
 
 <!--
 **dbtutor/dbtutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
